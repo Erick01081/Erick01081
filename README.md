@@ -33,6 +33,7 @@ Soy un desarrollador con enfoque en el backend, aunque abierto a trabajar en pro
 
 
 ### AWS
+<img src="https://github.com/user-attachments/assets/c2455037-beeb-4b62-902b-2533aba18f25" width="150">
 <img src="https://github.com/user-attachments/assets/87838f60-ee9c-4b77-9434-16bc67655edd" width="150">
 <img src="https://github.com/user-attachments/assets/c0fb3ad3-53dd-4e92-ab72-27dda9911f68" width="150">
 
